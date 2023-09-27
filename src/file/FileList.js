@@ -66,6 +66,11 @@ export default function FileList() {
                         로그아웃
                     </Button>
                 </Grid>
+                <Grid>
+                    <Button>
+                        다운로드
+                    </Button>
+                </Grid>
                 <Box
                     sx={{
                         my: 2,
